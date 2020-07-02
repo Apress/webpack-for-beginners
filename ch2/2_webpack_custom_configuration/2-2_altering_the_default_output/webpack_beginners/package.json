@@ -1,0 +1,17 @@
+{
+  "name": "webpack_beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  }
+}
